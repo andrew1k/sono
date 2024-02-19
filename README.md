@@ -4,7 +4,10 @@
 ```bash
 git clone https://github.com/andrew1k/sono
 ```
-
+Перейдите в директорию проекта:
+```bash
+sd sono
+```
 Установите зависимости:
 ```bash
 # npm
@@ -15,9 +18,7 @@ npm install
 # yarn
 yarn install
 ```
-
-## И запустите проект
-
+И запустите проект  
 Сервер должен запуститься по адресу `http://localhost:3000`:
 
 ```bash
